@@ -197,12 +197,12 @@
                 <pb n="23"/>
                 <p>Edward Arpin I do Remember in the year of 1763 that Bread was Sold at one
                     shilling one penney the peck</p>
-                <p>in the same year ann Juiels come to keep my Fathers house and she was with child
+                <p>in the same year <persName>ann Juiels</persName> come to keep my Fathers house and she was with child
                     and in august next she was Brought abed of a male child and she had it named
-                    William Juiels, <note type="footnote" anchored="true" target="#bookmark0"
+                    <persName>William Juiels</persName>, <note type="footnote" anchored="true" target="#bookmark0"
                         rend="font-style: superscript">1</note> that had 4 Eyes 2 in the face as
-                    others have and 2 upon the head a double hairstraw<note type="footnote"
-                        target="#fn2"/> in the uper lipe but one noastil and but 3 toes on the right
+                    others have and 2 upon the head a double hairstraw<note type="footnote" place="bottom" anchored="true"
+                        >Hairstraw: cleft lip</note> in the uper lipe but one noastil and but 3 toes on the right
                     foot</p>
                 <p>in the year of 1780 a peck loaf for 1s - 2d.</p>
                 <p>in the year 1800 a peck loaf is 6s - 2d.</p>
@@ -214,20 +214,20 @@
                 <p>in the year 1800 August great Thunder</p>
                 <p>at <placeName ref="#pl:ridgemont">Regiment</placeName> their was hail Stons Found
                     Mesured 12 inches and on Christmas day the Bird that is call’d Cuck-oo was Seen
-                    and heard to sing By manny Folks at willsead<a name="footnote3"/></p>
+                    and heard to sing By manny Folks at willsead<note n="footnote3"/></p>
                 <p>In the year 1801 near <placeName ref="#pl:stony-stratford">Stone
                         Stratfad</placeName> there was an hawe Thorn Bush upon the Full Bloom
-                    January the 12 <placeName>Northampton</placeName> news</p>
+                    January the 12 <placeName ref="#northampton">Northampton</placeName> news</p>
                 <p>In the year 1801 July there Fell in Iterley A hail Stone that Wayed 16 pounds and
                     a half <placeName>Northampton</placeName> news</p>
-                <p>Feb 28 a Miss Wooded the church Minestr Mr Woodods Daughter was deliverd of a
-                    fine Gearl that 6 fingers on Each hand 6 tows one Each foot and Like Birds
-                        Clause<a name="footnote4"/></p>
+                <p>Feb 28 a Miss Wooded the church <choice><orig>Minestr</orig><reg>minister</reg></choice> Mr Woodods Daughter was deliverd of a
+                    fine <choice><orig>Gearl</orig><reg>girl</reg></choice> that 6 fingers on Each hand 6 tows one Each foot and Like Birds
+                        Clause<note n="footnote4"/></p>
                 <pb n="21"/>
                 <p>In the year 1813 John Miller of <placeName>Felmersham</placeName> Made an End of
                     Wheat seeding January the 5</p>
-                <p>October 3th 1813 I and my Famley had Green Pease Both Blue and Rouncfirs<a
-                        name="footnote5"/><sup><a href="#bookmark4">5</a></sup><sup/> for dinner</p>
+                <p>October 3th 1813 I and my Famley had Green Pease Both Blue and Rouncfirs<note
+                        n="footnote5"/><sup><a href="#bookmark4">5</a></sup><sup/> for dinner</p>
                 <p>Octr, th 20 1813 I had 3 pounds wight In money for helping caring the Raimens of
                     Mr. John Greey to the Church of Felmersham</p>
                 <p>Decmbr. th 10 1813 A peck Loaf was 3[s] 6[d] ditto 17 3[s] 8[d] 1814 Janry. th 7
