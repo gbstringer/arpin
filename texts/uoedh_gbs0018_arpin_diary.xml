@@ -26,16 +26,14 @@
                 <p>About thirty years ago Mrs. Marshall, of Sherrington, was dusting a large old
                     book, when there fell out of it some yellowed papers covered with faded
                     handwriting. These she brought to the notice of Mr. Robertson Scott, the Editor
-                    of <span rend="font-style:italic;">The Countryman,</span><span> who soon
-                        realised that they were a diary, “intermittently kept, but continuing over
-                        some seventeen years, from 1814 to 1831”. “The handwriting and orthography,”
-                        he wrote, “are those of a person who seldom writes and never reads,” though
-                        this is hardly correct, as the diarist evidently read the </span><span
-                        rend="font-style:italic;">Northampton Mercury.</span><span> Soon afterwards,
-                        in 1929, he published extracts in four successive numbers of </span><span
-                        rend="font-style:italic;">The Countryman</span><span> under the heading of
+                    of <emph>The Countryman,</emph> who soon realised that they were a diary,
+                    “intermittently kept, but continuing over some seventeen years, from 1814 to
+                    1831”. “The handwriting and orthography,” he wrote, “are those of a person who
+                    seldom writes and never reads,” though this is hardly correct, as the diarist
+                    evidently read the <emph>Northampton Mercury.</emph> Soon afterwards, in 1929,
+                    he published extracts in four successive numbers of <emph>The Countryman</emph> under the heading of
                         “A Grave-Digger’s Diary : 1814-1831”. Some of the extracts were copied into
-                        the </span><span rend="font-style:italic;">Beds. Times',</span><span> but,
+                        the <emph>Beds. Times;</emph> but,
                         so far as we know, the Diary has never been published in its entirety. A few
                         years ago Mr. Scott kindly deposited it in the County Record Office (A.D.
                         1714) and he has consented to its publication here. In consequence of
@@ -43,7 +41,7 @@
                         that the writer was not merely a “grave-digger”, but the parish clerk of
                         Felmer-sham, Beds., from 1824 to 1834. He was certainly not very erudite;
                         but obviously he was able to fulfil fairly satisfactorily the ordinary
-                        duties of a parish clerk.</span></p>
+                        duties of a parish clerk.</p>
                 <p>Felmersham, a small village on the river Ouse, is about seven miles north-west of
                     Bedford. Its church, founded in the twelfth century, is avowedly the finest
                     village church in the county, and at this time the living was in the gift of
@@ -197,16 +195,16 @@
                 <pb n="23"/>
                 <p>Edward Arpin I do Remember in the year of 1763 that Bread was Sold at one
                     shilling one penney the peck</p>
-                <p>in the same year <persName>ann Juiels</persName> come to keep my Fathers house
+                <p>in the same year <persName ref="ps:ann-jewell">ann Juiels</persName> come to keep my Fathers house
                     and she was with child and in august next she was Brought abed of a male child
-                    and she had it named <persName>William Juiels</persName>, <note type="footnote" place="bottom"
-                        anchored="true" target="#bookmark0" rend="font-style: superscript">1.
-                        William, illegitimate son of Ann Jewell, was baptised 1 August and buried 7
-                        August 1764 at Felmersham, and on 1 October following, William Orpin,
-                        widower, married Ann Jewell (R. P. R ix).</note> that had 4 Eyes 2 in the
-                    face as others have and 2 upon the head a double hairstraw<note type="footnote"
-                        place="bottom" anchored="true">2. Hairstraw: cleft lip.</note> in the uper lipe
-                    but one noastil and but 3 toes on the right foot</p>
+                    and she had it named <persName ref="#pl:william-jewell">William Juiels</persName>, <note type="footnote"
+                        place="bottom">1. William, illegitimate son of Ann Jewell,
+                        was baptised 1 August and buried 7 August 1764 at Felmersham, and on 1
+                        October following, William Orpin, widower, married Ann Jewell (R. P. R
+                        ix).</note> that had 4 Eyes 2 in the face as others have and 2 upon the head
+                    a double hairstraw<note type="footnote" place="bottom">2.
+                        Hairstraw: cleft lip.</note> in the uper lipe but one noastil and but 3 toes
+                    on the right foot</p>
                 <p>in the year of 1780 a peck loaf for 1s - 2d.</p>
                 <p>in the year 1800 a peck loaf is 6s - 2d.</p>
                 <p>in the year 1801 a peck loaf is 6s - 6d</p>
